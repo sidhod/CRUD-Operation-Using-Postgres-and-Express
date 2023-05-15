@@ -1127,3 +1127,644 @@ error:
    {"timestamp":"2023-05-15T11:00:54.127Z"}
 info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:13:24.492Z"}
 info: Connected to the database. {"timestamp":"2023-05-15T11:13:24.650Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:21:14.444Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:21:14.610Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:21:29.226Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:22:58.703Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:22:58.845Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:23:00.292Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:23:01.657Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:25:00.542Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:25:00.948Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:25:02.654Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:25:03.806Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:25:27.676Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:25:27.831Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:25:29.941Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:25:53.353Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:25:53.560Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:27:15.806Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:27:16.020Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:27:18.632Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:27:20.064Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:29:26.457Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:29:26.642Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:29:29.157Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:29:45.120Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:29:45.272Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:30:40.307Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:30:40.538Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:33:26.874Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:33:27.037Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:33:30.658Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:34:09.048Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:34:09.205Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:34:10.464Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:34:30.286Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:34:30.435Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:34:31.313Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:34:44.559Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:34:44.756Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:36:07.301Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:36:07.477Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:37:36.476Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:37:36.611Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:37:40.542Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:37:58.683Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:37:58.821Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:38:25.399Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:38:25.704Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:43:18.764Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:43:18.950Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:43:28.680Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:44:04.817Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:44:55.671Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:44:55.813Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:44:56.652Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:52:31.485Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:52:31.707Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:52:35.209Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:52:52.659Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:52:52.843Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:52:53.689Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:53:27.492Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:53:27.669Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:53:28.671Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:53:31.014Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:54:59.896Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:55:00.086Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:55:00.993Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:55:18.335Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:55:18.488Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:55:23.728Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:55:23.878Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:55:38.055Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:56:00.768Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:56:00.979Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:56:02.966Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:56:56.203Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:56:56.462Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:57:00.440Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:57:00.608Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:57:08.371Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:57:08.691Z"}
+error: 
+    status - 500 
+    message - ReferenceError: now is not defined
+    at _callee2$ (E:\express\basicExampleProject\src\services\/user.service.js:18:9)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.newUser (E:\express\basicExampleProject\src\services\/user.service.js:12:21)
+    at _callee3$ (E:\express\basicExampleProject\src\controllers\/user.controller.js:50:36)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at newUser (E:\express\basicExampleProject\src\controllers\/user.controller.js:48:21)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at newUserValidator (E:\express\basicExampleProject\src\validators\/user.validator.js:14:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\express\basicExampleProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:57:09.626Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:57:40.939Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:57:41.161Z"}
+error: 
+    status - 500 
+    message - Error: Invalid value NOW {}
+    at escape (E:\express\basicExampleProject\node_modules\sequelize\src\sql-string.js:66:11)
+    at injectReplacements (E:\express\basicExampleProject\node_modules\sequelize\src\utils\sql.ts:179:34)
+    at Sequelize.query (E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:612:13)
+    at _callee2$ (E:\express\basicExampleProject\src\services\/user.service.js:16:24)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.newUser (E:\express\basicExampleProject\src\services\/user.service.js:13:21)
+    at _callee3$ (E:\express\basicExampleProject\src\controllers\/user.controller.js:50:36)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at newUser (E:\express\basicExampleProject\src\controllers\/user.controller.js:48:21)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at newUserValidator (E:\express\basicExampleProject\src\validators\/user.validator.js:14:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\express\basicExampleProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:57:42.132Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T12:08:06.879Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T12:08:07.129Z"}
+error: 
+    status - 500 
+    message - Error: Invalid value NOW {}
+    at escape (E:\express\basicExampleProject\node_modules\sequelize\src\sql-string.js:66:11)
+    at injectReplacements (E:\express\basicExampleProject\node_modules\sequelize\src\utils\sql.ts:179:34)
+    at Sequelize.query (E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:612:13)
+    at _callee2$ (E:\express\basicExampleProject\src\services\/user.service.js:16:24)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.newUser (E:\express\basicExampleProject\src\services\/user.service.js:13:21)
+    at _callee3$ (E:\express\basicExampleProject\src\controllers\/user.controller.js:50:36)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at newUser (E:\express\basicExampleProject\src\controllers\/user.controller.js:48:21)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at newUserValidator (E:\express\basicExampleProject\src\validators\/user.validator.js:14:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\express\basicExampleProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T12:08:09.336Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T12:10:11.441Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T12:10:11.829Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T12:10:14.997Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T12:10:15.160Z"}
+error: 
+    status - 500 
+    message - ReferenceError: TIMESTAMP is not defined
+    at _callee2$ (E:\express\basicExampleProject\src\services\/user.service.js:19:37)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.newUser (E:\express\basicExampleProject\src\services\/user.service.js:13:21)
+    at _callee3$ (E:\express\basicExampleProject\src\controllers\/user.controller.js:50:36)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at newUser (E:\express\basicExampleProject\src\controllers\/user.controller.js:48:21)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at newUserValidator (E:\express\basicExampleProject\src\validators\/user.validator.js:14:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\express\basicExampleProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T12:10:18.089Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T12:10:31.002Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T12:10:31.150Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T12:11:37.097Z"}
+error: 
+    status - 500 
+    message - ReferenceError: CURRENT_TIMESTAMP is not defined
+    at _callee2$ (E:\express\basicExampleProject\src\services\/user.service.js:19:37)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.newUser (E:\express\basicExampleProject\src\services\/user.service.js:13:21)
+    at _callee3$ (E:\express\basicExampleProject\src\controllers\/user.controller.js:50:36)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at newUser (E:\express\basicExampleProject\src\controllers\/user.controller.js:48:21)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at newUserValidator (E:\express\basicExampleProject\src\validators\/user.validator.js:14:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\express\basicExampleProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T12:11:38.018Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T12:11:38.259Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T12:12:38.254Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T12:12:38.523Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T12:12:39.124Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T12:13:06.853Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T12:13:07.146Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T12:13:08.346Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T12:13:35.640Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T12:13:35.813Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T12:13:36.122Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T12:18:46.388Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T12:18:46.599Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T12:18:47.622Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T12:19:03.367Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T12:19:03.568Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T12:20:02.250Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T12:20:02.411Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T12:21:03.488Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T12:21:03.659Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T12:21:08.548Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T12:21:08.685Z"}

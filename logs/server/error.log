@@ -1383,3 +1383,558 @@ error:
     method - POST 
     IP - ::1
    {"timestamp":"2023-05-15T11:00:54.127Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:21:29.226Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:23:00.292Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:23:01.657Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:25:02.654Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:25:03.806Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:25:29.941Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:27:18.632Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:27:20.064Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:29:29.157Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:33:30.658Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:34:10.464Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:34:31.313Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - PUT 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:37:40.542Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:43:28.680Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:44:04.817Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:44:56.652Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:52:35.209Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:52:53.689Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:53:28.671Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:53:31.014Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:55:00.993Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:55:38.055Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:56:02.966Z"}
+error: 
+    status - 500 
+    message - ReferenceError: now is not defined
+    at _callee2$ (E:\express\basicExampleProject\src\services\/user.service.js:18:9)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.newUser (E:\express\basicExampleProject\src\services\/user.service.js:12:21)
+    at _callee3$ (E:\express\basicExampleProject\src\controllers\/user.controller.js:50:36)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at newUser (E:\express\basicExampleProject\src\controllers\/user.controller.js:48:21)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at newUserValidator (E:\express\basicExampleProject\src\validators\/user.validator.js:14:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\express\basicExampleProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:57:09.626Z"}
+error: 
+    status - 500 
+    message - Error: Invalid value NOW {}
+    at escape (E:\express\basicExampleProject\node_modules\sequelize\src\sql-string.js:66:11)
+    at injectReplacements (E:\express\basicExampleProject\node_modules\sequelize\src\utils\sql.ts:179:34)
+    at Sequelize.query (E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:612:13)
+    at _callee2$ (E:\express\basicExampleProject\src\services\/user.service.js:16:24)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.newUser (E:\express\basicExampleProject\src\services\/user.service.js:13:21)
+    at _callee3$ (E:\express\basicExampleProject\src\controllers\/user.controller.js:50:36)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at newUser (E:\express\basicExampleProject\src\controllers\/user.controller.js:48:21)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at newUserValidator (E:\express\basicExampleProject\src\validators\/user.validator.js:14:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\express\basicExampleProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:57:42.132Z"}
+error: 
+    status - 500 
+    message - Error: Invalid value NOW {}
+    at escape (E:\express\basicExampleProject\node_modules\sequelize\src\sql-string.js:66:11)
+    at injectReplacements (E:\express\basicExampleProject\node_modules\sequelize\src\utils\sql.ts:179:34)
+    at Sequelize.query (E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:612:13)
+    at _callee2$ (E:\express\basicExampleProject\src\services\/user.service.js:16:24)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.newUser (E:\express\basicExampleProject\src\services\/user.service.js:13:21)
+    at _callee3$ (E:\express\basicExampleProject\src\controllers\/user.controller.js:50:36)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at newUser (E:\express\basicExampleProject\src\controllers\/user.controller.js:48:21)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at newUserValidator (E:\express\basicExampleProject\src\validators\/user.validator.js:14:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\express\basicExampleProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T12:08:09.336Z"}
+error: 
+    status - 500 
+    message - ReferenceError: TIMESTAMP is not defined
+    at _callee2$ (E:\express\basicExampleProject\src\services\/user.service.js:19:37)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.newUser (E:\express\basicExampleProject\src\services\/user.service.js:13:21)
+    at _callee3$ (E:\express\basicExampleProject\src\controllers\/user.controller.js:50:36)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at newUser (E:\express\basicExampleProject\src\controllers\/user.controller.js:48:21)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at newUserValidator (E:\express\basicExampleProject\src\validators\/user.validator.js:14:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\express\basicExampleProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T12:10:18.089Z"}
+error: 
+    status - 500 
+    message - ReferenceError: CURRENT_TIMESTAMP is not defined
+    at _callee2$ (E:\express\basicExampleProject\src\services\/user.service.js:19:37)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at Object.apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at Object.newUser (E:\express\basicExampleProject\src\services\/user.service.js:13:21)
+    at _callee3$ (E:\express\basicExampleProject\src\controllers\/user.controller.js:50:36)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:27:7
+    at new Promise (<anonymous>)
+    at apply (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:19:12)
+    at newUser (E:\express\basicExampleProject\src\controllers\/user.controller.js:48:21)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at newUserValidator (E:\express\basicExampleProject\src\validators\/user.validator.js:14:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (E:\express\basicExampleProject\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:175:3)
+    at router (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10)
+    at logger (E:\express\basicExampleProject\node_modules\morgan\index.js:144:5)
+    at Layer.handle [as handle_request] (E:\express\basicExampleProject\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:328:13)
+    at E:\express\basicExampleProject\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:346:12)
+    at next (E:\express\basicExampleProject\node_modules\express\lib\router\index.js:280:10) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T12:11:38.018Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T12:12:39.124Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T12:13:08.346Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T12:13:36.122Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T12:18:47.622Z"}

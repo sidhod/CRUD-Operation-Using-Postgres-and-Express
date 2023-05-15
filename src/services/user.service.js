@@ -1,3 +1,4 @@
+import { NOW } from 'sequelize';
 import sequelize, { DataTypes, QueryTypes } from '../config/database';
 const User = require('../models/user')(sequelize, DataTypes);
 
@@ -12,13 +13,15 @@ export const getAllUsers = async () => {
 export const newUser = async (body) => {
   // const data = await User.create(body);
   // let sqlq = "INSERT INTO public.users(firstName,lastName,email) VALUES(@0,@1,@2)";
-  await User.sequelize.query("INSERT INTO public.users(firstName,lastName,email) VALUES(:firstName,:lastName,:email)", {
+  const data1 = await User.sequelize.query(`INSERT INTO public.users("firstName","lastName","email","createdAt","updatedAt") VALUES(:firstName,:lastName,:email,:createdAt,:updatedAt)`, {
     replacements: {
-      firstName: 'Sidhjko%', lastName: 'kakka%', email: 'sidhodhan520@gmail.com%'
+      firstName: body.firstName, lastName: body.lastName,
+      email: body.email, createdAt: `2023-05-15 12:10:30.445+05:30`,
+      updatedAt: '2023-05-15 12:10:30.445+05:30'
     },
     type: QueryTypes.SELECT
   });
-  // return data1;
+  return data1;
 };
 
 //update single user
@@ -27,9 +30,11 @@ export const updateUser = async (id, body) => {
   //   where: { id: id }
   // });
   await sequelize.query(
-    'SELECT * FROM public.users WHERE id = :id',
+    `UPDATE users SET "firstName" = :firstName WHERE id = :id`,
     {
-      replacements: { id: id, body: body },
+      replacements: {
+        id: id, firstName: body.firstName
+      },
       type: QueryTypes.SELECT
     }
   );
