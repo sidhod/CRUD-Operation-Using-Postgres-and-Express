@@ -1,0 +1,1129 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T03:02:35.439Z"}
+error: Could not connect to the database. password authentication failed for user "Dell" {"name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":100,"line":"329","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":100,"line":"329","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: password authentication failed for user \"Dell\"\n    at Client._connectionCallback (E:\\express\\basicExampleProject\\node_modules\\sequelize\\src\\dialects\\postgres\\connection-manager.js:191:24)\n    at Client._handleErrorWhileConnecting (E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\client.js:318:19)\n    at Client._handleErrorMessage (E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\client.js:338:19)\n    at Connection.emit (node:events:513:28)\n    at Connection.emit (node:domain:489:12)\n    at E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\connection.js:116:12\n    at Parser.parse (E:\\express\\basicExampleProject\\node_modules\\pg-protocol\\src\\parser.ts:104:9)\n    at Socket.<anonymous> (E:\\express\\basicExampleProject\\node_modules\\pg-protocol\\src\\index.ts:7:48)\n    at Socket.emit (node:events:513:28)\n    at Socket.emit (node:domain:489:12)\n    at addChunk (node:internal/streams/readable:315:12)\n    at readableAddChunk (node:internal/streams/readable:289:9)\n    at Socket.Readable.push (node:internal/streams/readable:228:10)\n    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)","timestamp":"2023-05-15T03:02:35.662Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T03:07:34.216Z"}
+error: Could not connect to the database. password authentication failed for user "Dell" {"name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":100,"line":"329","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":100,"line":"329","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: password authentication failed for user \"Dell\"\n    at Client._connectionCallback (E:\\express\\basicExampleProject\\node_modules\\sequelize\\src\\dialects\\postgres\\connection-manager.js:191:24)\n    at Client._handleErrorWhileConnecting (E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\client.js:318:19)\n    at Client._handleErrorMessage (E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\client.js:338:19)\n    at Connection.emit (node:events:513:28)\n    at Connection.emit (node:domain:489:12)\n    at E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\connection.js:116:12\n    at Parser.parse (E:\\express\\basicExampleProject\\node_modules\\pg-protocol\\src\\parser.ts:104:9)\n    at Socket.<anonymous> (E:\\express\\basicExampleProject\\node_modules\\pg-protocol\\src\\index.ts:7:48)\n    at Socket.emit (node:events:513:28)\n    at Socket.emit (node:domain:489:12)\n    at addChunk (node:internal/streams/readable:315:12)\n    at readableAddChunk (node:internal/streams/readable:289:9)\n    at Socket.Readable.push (node:internal/streams/readable:228:10)\n    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)","timestamp":"2023-05-15T03:07:34.515Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T03:09:56.093Z"}
+error: Could not connect to the database. password authentication failed for user "Dell" {"name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":100,"line":"329","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":100,"line":"329","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: password authentication failed for user \"Dell\"\n    at Client._connectionCallback (E:\\express\\basicExampleProject\\node_modules\\sequelize\\src\\dialects\\postgres\\connection-manager.js:191:24)\n    at Client._handleErrorWhileConnecting (E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\client.js:318:19)\n    at Client._handleErrorMessage (E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\client.js:338:19)\n    at Connection.emit (node:events:513:28)\n    at Connection.emit (node:domain:489:12)\n    at E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\connection.js:116:12\n    at Parser.parse (E:\\express\\basicExampleProject\\node_modules\\pg-protocol\\src\\parser.ts:104:9)\n    at Socket.<anonymous> (E:\\express\\basicExampleProject\\node_modules\\pg-protocol\\src\\index.ts:7:48)\n    at Socket.emit (node:events:513:28)\n    at Socket.emit (node:domain:489:12)\n    at addChunk (node:internal/streams/readable:315:12)\n    at readableAddChunk (node:internal/streams/readable:289:9)\n    at Socket.Readable.push (node:internal/streams/readable:228:10)\n    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)","timestamp":"2023-05-15T03:09:56.387Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T03:24:15.151Z"}
+error: Could not connect to the database. password authentication failed for user "Dell" {"name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":100,"line":"329","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":100,"line":"329","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: password authentication failed for user \"Dell\"\n    at Client._connectionCallback (E:\\express\\basicExampleProject\\node_modules\\sequelize\\src\\dialects\\postgres\\connection-manager.js:191:24)\n    at Client._handleErrorWhileConnecting (E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\client.js:318:19)\n    at Client._handleErrorMessage (E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\client.js:338:19)\n    at Connection.emit (node:events:513:28)\n    at Connection.emit (node:domain:489:12)\n    at E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\connection.js:116:12\n    at Parser.parse (E:\\express\\basicExampleProject\\node_modules\\pg-protocol\\src\\parser.ts:104:9)\n    at Socket.<anonymous> (E:\\express\\basicExampleProject\\node_modules\\pg-protocol\\src\\index.ts:7:48)\n    at Socket.emit (node:events:513:28)\n    at Socket.emit (node:domain:489:12)\n    at addChunk (node:internal/streams/readable:315:12)\n    at readableAddChunk (node:internal/streams/readable:289:9)\n    at Socket.Readable.push (node:internal/streams/readable:228:10)\n    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)","timestamp":"2023-05-15T03:24:15.391Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T03:33:42.142Z"}
+error: Could not connect to the database. password authentication failed for user "postgres" {"name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":104,"line":"329","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":104,"line":"329","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: password authentication failed for user \"postgres\"\n    at Client._connectionCallback (E:\\express\\basicExampleProject\\node_modules\\sequelize\\src\\dialects\\postgres\\connection-manager.js:191:24)\n    at Client._handleErrorWhileConnecting (E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\client.js:318:19)\n    at Client._handleErrorMessage (E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\client.js:338:19)\n    at Connection.emit (node:events:513:28)\n    at Connection.emit (node:domain:489:12)\n    at E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\connection.js:116:12\n    at Parser.parse (E:\\express\\basicExampleProject\\node_modules\\pg-protocol\\src\\parser.ts:104:9)\n    at Socket.<anonymous> (E:\\express\\basicExampleProject\\node_modules\\pg-protocol\\src\\index.ts:7:48)\n    at Socket.emit (node:events:513:28)\n    at Socket.emit (node:domain:489:12)\n    at addChunk (node:internal/streams/readable:315:12)\n    at readableAddChunk (node:internal/streams/readable:289:9)\n    at Socket.Readable.push (node:internal/streams/readable:228:10)\n    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)","timestamp":"2023-05-15T03:33:43.997Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T03:33:50.253Z"}
+error: Could not connect to the database. password authentication failed for user "postgres" {"name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":104,"line":"329","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":104,"line":"329","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: password authentication failed for user \"postgres\"\n    at Client._connectionCallback (E:\\express\\basicExampleProject\\node_modules\\sequelize\\src\\dialects\\postgres\\connection-manager.js:191:24)\n    at Client._handleErrorWhileConnecting (E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\client.js:318:19)\n    at Client._handleErrorMessage (E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\client.js:338:19)\n    at Connection.emit (node:events:513:28)\n    at Connection.emit (node:domain:489:12)\n    at E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\connection.js:116:12\n    at Parser.parse (E:\\express\\basicExampleProject\\node_modules\\pg-protocol\\src\\parser.ts:104:9)\n    at Socket.<anonymous> (E:\\express\\basicExampleProject\\node_modules\\pg-protocol\\src\\index.ts:7:48)\n    at Socket.emit (node:events:513:28)\n    at Socket.emit (node:domain:489:12)\n    at addChunk (node:internal/streams/readable:315:12)\n    at readableAddChunk (node:internal/streams/readable:289:9)\n    at Socket.Readable.push (node:internal/streams/readable:228:10)\n    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)","timestamp":"2023-05-15T03:33:50.333Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T03:33:55.480Z"}
+error: Could not connect to the database. password authentication failed for user "postgres" {"name":"SequelizeConnectionError","original":{"code":"28P01","file":"auth.c","length":104,"line":"329","name":"error","routine":"auth_failed","severity":"FATAL"},"parent":{"code":"28P01","file":"auth.c","length":104,"line":"329","name":"error","routine":"auth_failed","severity":"FATAL"},"stack":"SequelizeConnectionError: password authentication failed for user \"postgres\"\n    at Client._connectionCallback (E:\\express\\basicExampleProject\\node_modules\\sequelize\\src\\dialects\\postgres\\connection-manager.js:191:24)\n    at Client._handleErrorWhileConnecting (E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\client.js:318:19)\n    at Client._handleErrorMessage (E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\client.js:338:19)\n    at Connection.emit (node:events:513:28)\n    at Connection.emit (node:domain:489:12)\n    at E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\connection.js:116:12\n    at Parser.parse (E:\\express\\basicExampleProject\\node_modules\\pg-protocol\\src\\parser.ts:104:9)\n    at Socket.<anonymous> (E:\\express\\basicExampleProject\\node_modules\\pg-protocol\\src\\index.ts:7:48)\n    at Socket.emit (node:events:513:28)\n    at Socket.emit (node:domain:489:12)","timestamp":"2023-05-15T03:33:56.675Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T03:35:04.656Z"}
+error: Could not connect to the database. database "express" does not exist {"name":"SequelizeConnectionError","original":{"code":"3D000","file":"postinit.c","length":92,"line":"943","name":"error","routine":"InitPostgres","severity":"FATAL"},"parent":{"code":"3D000","file":"postinit.c","length":92,"line":"943","name":"error","routine":"InitPostgres","severity":"FATAL"},"stack":"SequelizeConnectionError: database \"express\" does not exist\n    at Client._connectionCallback (E:\\express\\basicExampleProject\\node_modules\\sequelize\\src\\dialects\\postgres\\connection-manager.js:191:24)\n    at Client._handleErrorWhileConnecting (E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\client.js:318:19)\n    at Client._handleErrorMessage (E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\client.js:338:19)\n    at Connection.emit (node:events:513:28)\n    at Connection.emit (node:domain:489:12)\n    at E:\\express\\basicExampleProject\\node_modules\\pg\\lib\\connection.js:116:12\n    at Parser.parse (E:\\express\\basicExampleProject\\node_modules\\pg-protocol\\src\\parser.ts:104:9)\n    at Socket.<anonymous> (E:\\express\\basicExampleProject\\node_modules\\pg-protocol\\src\\index.ts:7:48)\n    at Socket.emit (node:events:513:28)\n    at Socket.emit (node:domain:489:12)","timestamp":"2023-05-15T03:35:04.774Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T03:36:05.149Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T03:36:05.786Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T04:28:37.016Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T04:28:37.279Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T06:26:49.917Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T06:26:51.466Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T06:31:48.445Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T06:31:48.629Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T06:33:38.844Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T06:33:39.098Z"}
+error: 
+    status - 500 
+    message - ValidationError: "firstName" is required 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T06:38:21.834Z"}
+error: 
+      status - 400
+      message - Authorization token is required 
+      url - /api/v1/users/1 
+      method - GET 
+      IP - ::1
+     {"timestamp":"2023-05-15T06:44:38.046Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T06:45:36.357Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T06:45:36.608Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:25:06.087Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:25:06.300Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:25:06.809Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:25:39.954Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:25:40.257Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users/1 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:25:43.406Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:26:09.409Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:26:09.662Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:26:43.312Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:26:43.567Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:29:40.632Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:29:40.915Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:29:53.964Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:29:54.133Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:31:26.443Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:31:28.413Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:31:46.826Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:31:46.998Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:35:50.781Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:35:51.073Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:36:23.610Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:36:23.806Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:38:47.764Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:38:48.194Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:39:07.570Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:39:07.726Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:41:04.108Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:41:04.293Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:44:39.855Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:44:40.015Z"}
+error: 
+    status - 500 
+    message - ReferenceError: QueryTypes is not defined
+    at _callee$ (E:\express\basicExampleProject\src\services\/user.service.js:7:76)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:44:51.896Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:45:19.876Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:45:20.080Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:45:24.994Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:45:25.142Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:45:44.388Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:45:44.543Z"}
+error: 
+    status - 500 
+    message - TypeError: Cannot read properties of undefined (reading 'SELECT')
+    at _callee$ (E:\express\basicExampleProject\src\services\/user.service.js:7:87)
+    at tryCatch (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:44:17)
+    at Generator.<anonymous> (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:125:22)
+    at Generator.next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\regeneratorRuntime.js:69:21)
+    at asyncGeneratorStep (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:3:24)
+    at _next (E:\express\basicExampleProject\node_modules\@babel\runtime\helpers\asyncToGenerator.js:22:9)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - GET 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:45:47.867Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:46:08.274Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:46:08.444Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:46:13.320Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:46:55.211Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:47:11.227Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:47:22.735Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:47:22.938Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:48:11.577Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:48:11.764Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:48:25.234Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:48:25.394Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:49:03.188Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:49:03.368Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:54:41.829Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:54:42.032Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:55:05.928Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:55:48.657Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:55:48.812Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:55:55.643Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:56:47.055Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:56:47.205Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:56:49.058Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:56:49.557Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:56:51.483Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:56:51.972Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:56:53.350Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:56:53.944Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:56:54.691Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:56:56.486Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:57:28.134Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:57:33.791Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T07:58:27.686Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T07:58:27.836Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:58:30.353Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T07:58:31.913Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:01:17.262Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:01:17.538Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:01:17.741Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:01:19.021Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:01:44.361Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:02:50.450Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:03:48.838Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:03:49.202Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:08:24.632Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:08:24.802Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:08:25.973Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:08:31.305Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:12:43.448Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:12:43.778Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:13:23.684Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:14:20.243Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:14:20.452Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:14:27.351Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:15:53.932Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:15:54.089Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:15:59.679Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:17:56.734Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:17:56.995Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:17:57.611Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:17:59.100Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:18:09.745Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:20:30.330Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:20:30.472Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:21:47.154Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:21:47.363Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:21:48.441Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:21:50.232Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:21:50.805Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:23:31.068Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:24:24.852Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:24:25.599Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:24:25.938Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:26:12.718Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:26:13.022Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:26:17.485Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:26:30.587Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:26:30.745Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:26:36.613Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:27:16.778Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:27:16.953Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:27:22.235Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:27:24.962Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:30:39.727Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:30:39.910Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:31:18.733Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:31:18.960Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:31:19.346Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:31:27.031Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:31:27.241Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:31:44.717Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:32:13.037Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:32:13.228Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:48:04.650Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:48:05.009Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:48:08.810Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:49:09.526Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:49:09.965Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:49:10.029Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:51:07.423Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:51:08.801Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:51:09.978Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:52:14.117Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:52:14.322Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:52:22.985Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:54:20.183Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:54:20.479Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:54:28.040Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:54:28.188Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:54:30.659Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:54:32.778Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:54:34.092Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:55:03.350Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:55:03.608Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:55:03.881Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:55:16.935Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:55:18.075Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:55:20.844Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:55:53.153Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T08:56:11.098Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T08:56:11.474Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T08:56:19.262Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:18:40.449Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:18:40.753Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:18:45.074Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:19:08.974Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:19:09.241Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:19:10.911Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:19:12.586Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:19:13.307Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:20:22.005Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:20:22.365Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:20:23.450Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:20:24.843Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:20:50.605Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:20:50.794Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:20:51.840Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:22:08.702Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:22:08.840Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:22:19.675Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:23:01.848Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:23:02.212Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:23:03.243Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:23:05.001Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:24:19.313Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:24:19.597Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:24:28.148Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:24:28.301Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:33:38.661Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:33:38.885Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:34:28.616Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:34:28.778Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:34:33.327Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:34:33.535Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:34:38.250Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:34:39.690Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:34:41.083Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:35:00.734Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:35:00.894Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:36:36.969Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:36:37.244Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:36:44.887Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:36:46.387Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:36:47.585Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:40:21.887Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:40:22.072Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:40:24.126Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:40:25.585Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:40:58.699Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:40:58.863Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:41:04.112Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:41:04.305Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:41:05.091Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:42:18.872Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:42:19.052Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:42:19.450Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:42:20.749Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:42:50.980Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:42:51.134Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:42:52.940Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:43:38.199Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:43:38.424Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:43:41.714Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:44:59.181Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:44:59.467Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:44:59.592Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:45:01.080Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:47:14.385Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:47:14.758Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:47:21.064Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:47:21.247Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:47:30.262Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:47:31.666Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:47:34.738Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:47:35.422Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:47:38.047Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:47:45.176Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:47:45.385Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:48:36.303Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:48:36.484Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:49:49.973Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:49:50.140Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:50:29.863Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:50:30.119Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:50:30.371Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T09:50:32.612Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:55:03.164Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:55:03.316Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:57:12.321Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:57:12.505Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:57:41.723Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:57:42.032Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:57:45.912Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:57:46.081Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T09:58:04.336Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T09:58:05.333Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T10:39:13.071Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T10:41:20.017Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T10:41:20.235Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T10:41:20.723Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T10:42:00.438Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T10:43:02.280Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T10:43:03.146Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T10:43:03.213Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T10:46:32.161Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T10:46:32.357Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T10:47:40.003Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T10:47:40.216Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T10:47:50.040Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T10:47:50.214Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T10:49:38.429Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T10:49:38.738Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T10:51:01.168Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T10:58:41.661Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T10:58:41.828Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:00:50.569Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:00:50.772Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:00:52.462Z"}
+error: 
+    status - 500 
+    message - Error: 
+    at Query.run (E:\express\basicExampleProject\node_modules\sequelize\src\dialects\postgres\query.js:76:25)
+    at E:\express\basicExampleProject\node_modules\sequelize\src\sequelize.js:650:28
+    at processTicksAndRejections (node:internal/process/task_queues:96:5) 
+    url - /api/v1/users 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2023-05-15T11:00:54.127Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2023-05-15T11:13:24.492Z"}
+info: Connected to the database. {"timestamp":"2023-05-15T11:13:24.650Z"}
